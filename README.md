@@ -11,12 +11,12 @@
 ## 🧠 About Me
 
 * 🎓 **Bachelor of Engineering (IT)** student at Gujarat Technological University (GTU)
-* 🏆 **SIH 2025 Finalist** | Team Leader of **HackFinity007**
+* 🏆 **SIH 2025 Finalist** 
 * 💻 Passionate about **Software Development**, specifically Java (DSA & LeetCode)
 * 🛠️ Working on **CleanTrack**, a real-time IoT-based smart waste management system
-* 🎯 Aiming for high-impact roles at top tech companies like **Google**
 
-📫 **Reach me at:** `your-email@gmail.com`
+
+📫 **Reach me at:** devkhandhediya616@gmail.com`
 
 ---
 
