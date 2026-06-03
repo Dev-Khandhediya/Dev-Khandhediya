@@ -1,68 +1,116 @@
-# 👋 Hey, I’m Dev Khandhediya
+<h1 align="center">Hi 👋, I'm Dev Khandhediya</h1>
 
-### 🚀 IT Engineering Student | IoT & Full-Stack Enthusiast
+<h3 align="center">
+🚀 Information Technology Engineer | SIH 2025 Finalist | IoT & Software Developer
+</h3>
 
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=IT+Engineering+Student+%40+GTU;IoT+and+Embedded+Systems;Java+%7C+Python+%7C+OpenCV;Building+CleanTrack+Project" alt="Typing SVG" />
-</div>
+<p align="center">
+  <strong>Passionate about Software Development, IoT Systems, Computer Vision, and Building Real-World Solutions.</strong>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dev-Khandhediya&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Dev-Khandhediya?style=for-the-badge" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Dev-Khandhediya?style=for-the-badge" alt="Stars" />
+</p>
 
 ---
 
 ## 🧠 About Me
 
-* 🎓 **Bachelor of Engineering (IT)** student at Gujarat Technological University (GTU)
-* 🏆 **SIH 2025 Finalist** 
-* 💻 Passionate about **Software Development**, specifically Java (DSA & LeetCode)
-* 🛠️ Working on **CleanTrack**, a real-time IoT-based smart waste management system
+*   🎓 **Education:** Bachelor of Engineering in Information Technology
+*   🏫 **University:** Gujarat Technological University (GTU)
+*   💻 **Core Interests:** 
+    *   Software Development & Java Programming
+    *   Data Structures & Algorithms (DSA)
+    *   Full-Stack Web Development
+    *   IoT, Embedded Systems & Computer Vision
 
+🚀 **Currently Focusing On:**
+*   **CleanTrack:** Driving smart city innovation via an IoT-based Smart Waste Management System.
+*   **Problem Solving:** Sharpening analytical skills through daily DSA challenges on LeetCode.
+*   **Open Source:** Building robust, real-world software applications.
 
-📫 **Reach me at:** devkhandhediya616@gmail.com`
+📬 **Reach Me At:** devkhandhediya616@gmail.com
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://x.com/YOUR_X_ID" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-<a href="mailto:your-email@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="http://www.linkedin.com/in/dev-khandhediya-62a601344" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/Dev_Khandhediya/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="mailto:devkhandhediya616@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
 </p>
 
 ---
 
-## 💻 Tech Stack & Tools
+## 💻 Tech Stack
 
-### 🌐 Languages & Core
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</p>
+### 🗣️ Languages
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-### 🛠️ IoT & Computer Vision
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/arduino/arduino-icon.svg" alt="arduino" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/espressif/espressif-icon.svg" alt="esp32" width="40" height="40"/>
-</p>
+### 🌐 Web Development
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🔌 IoT, Computer Vision & Tools
+![](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
+![](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
+
+### 🗑️ [CleanTrack](https://github.com/Dev-Khandhediya/CleanTrack)
+An advanced Smart Waste Management System utilizing IoT sensors to deliver real-time environmental data and tracking solutions.
+*   **Key Features:** Smart Bin Level Monitoring, Real-Time Data Collection, IoT Hardware Integration, Waste Analytics.
+*   🛠️ **Tech:** IoT, Embedded Systems
+
+### 🌦️ [Weather App](https://github.com/Dev-Khandhediya/Weather-App)
+A modern, sleek, and highly responsive web application that displays real-time weather analytics globally.
+*   **Key Features:** Current Location Detection, Global City Search, Wind Speed, Humidity & Cloud Coverage Metrics.
+*   🛠️ **Tech:** HTML5, CSS3, JavaScript, OpenWeather API
+
+### 🕵️ [Dev Detective](https://github.com/Dev-Khandhediya/DevDetective-GitHub)
+A robust developer tool built to seamlessly search, fetch, and display comprehensive GitHub profile statistics.
+*   **Key Features:** Fast Profile Lookups, Repository Breakdown, Follower Trackers, Dynamic UI.
+*   🛠️ **Tech:** JavaScript, GitHub API
+
+### 🎨 [Air Canvas](https://github.com/Dev-Khandhediya/Virtual-Drawing-Canvas)
+An innovative computer vision application that transforms mid-air hand gestures into a digital canvas.
+*   **Key Features:** Real-Time Hand Tracking, Virtual Drawing Tool, Fluid Visual Processing.
+*   🛠️ **Tech:** Python, OpenCV
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Dev-Khandhediya&show_icons=true&theme=radical&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Khandhediya&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats-six-reyland.vercel.app/api?username=Dev-Khandhediya&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-readme-stats-six-reyland.vercel.app/api/top-langs/?username=Dev-Khandhediya&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-Khandhediya&theme=radical&hide_border=true" />
+  <img src="https://git-streak-stats.vercel.app/?user=Dev-Khandhediya&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
-* **[CleanTrack](https://github.com/YOUR_GITHUB_USERNAME/CleanTrack)** - Real-time waste management using ESP32 and IoT.
-* **[AutoHeal](https://github.com/YOUR_GITHUB_USERNAME/AutoHeal)** - Self-healing computing elements for SIH 2025.
-* **Air Canvas** - Computer vision project using Python and OpenCV.
+<p align="center">
+  ⭐ If you like my work, feel free to star my repositories!<br>
+  <strong>🚀 Let's Connect and Build Something Amazing Together!</strong>
+</p>
