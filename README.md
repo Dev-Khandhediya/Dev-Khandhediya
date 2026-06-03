@@ -105,7 +105,7 @@ An innovative computer vision application that transforms mid-air hand gestures 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dev-Khandhediya&theme=tokyonight&hide_border=true" />
+  <img src="https://nice-readme.vercel.app/api/streak-stats?username=Dev-Khandhediya&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
