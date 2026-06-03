@@ -100,12 +100,12 @@ An innovative computer vision application that transforms mid-air hand gestures 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://nice-readme.vercel.app/stats?username=Dev-Khandhediya&show_icons=true&theme=tokyonight&hide_border=true&v=1.0.1" height="180" />
-  <img src="https://nice-readme.vercel.app/stats/top-langs?username=Dev-Khandhediya&layout=compact&theme=tokyonight&hide_border=true&v=1.0.1" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Dev-Khandhediya&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Dev-Khandhediya&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://nice-readme.vercel.app/streak-stats?user=Dev-Khandhediya&theme=tokyonight&hide_border=true&v=1.0.1" />
+  <img src="https://github-readme-streak-stats-tw.vercel.app/?user=Dev-Khandhediya&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
